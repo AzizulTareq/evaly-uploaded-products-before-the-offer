@@ -1,3 +1,8 @@
+// Azizul Hakim Tareq
+// Computer Science & Engineering
+// North South University
+
+
 const request = require('request')
 
 const url = 'https://api.evaly.com.bd/core/public/shops/items/evaly-cyclone-19-may/?page=1&limit=999'
